@@ -2,6 +2,7 @@
 //!
 //! # Example
 //! ```no_run
+//! use virt2slint::Converter;
 //! let converter = Converter::new(32767,1200,800);
 //! let mut x = 0;
 //! let mut y = 0;
