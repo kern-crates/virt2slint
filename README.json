@@ -1,0 +1,10 @@
+{
+  "name": "virt2slint",
+  "description": "virtio event to slint event",
+  "authors": [{
+    "name": "chenlinfeng ",
+    "email": "chenlinfeng25@outlook.com"
+  }],
+  "keywords": ["virtio input event", "slint", "gui"],
+  "doc_url": "https://github.com/kern-crates/virt2slint/blob/main/README.md"
+}
